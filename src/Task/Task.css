@@ -1,0 +1,9 @@
+.block{
+    background-color: aqua;
+    margin: 20px 0px;
+    border: 1px solid green;
+    text-align: center;
+    height: 46px;
+    width: 100px;
+    align-items: center;
+}

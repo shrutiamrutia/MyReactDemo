@@ -1,0 +1,96 @@
+/* 
+body {
+	background-color: #f6f6ff;
+	font-family: Calibri, Myriad;
+}
+#main {
+	width: 780px;
+	padding: 20px;
+	margin: auto;
+    
+}
+.card {
+	margin: auto;
+	width: 600px;
+	border-collapse: collapse;
+	border: 1px solid #fff; 
+	border-style: hidden;    
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+table.card thead th {
+	height: 60px;
+    background: #36304a;
+    color: white;
+}
+
+table.card thead th ,
+table.card thead tr{
+    width: 260px;
+    padding-left: 40px;   
+} 
+
+
+table.card thead tr#list{
+    width: 40%;
+}
+
+table.card td {
+	text-align: right;
+    color: #808080;
+    padding: 20px;
+}
+
+table.card tbody th {
+	text-align: left;
+	
+}
+
+table.card tr.even {
+	background-color: lightgray;
+    color: #808080;
+}
+button{
+    margin-top: 20px;
+    margin-left: 10px;
+	height: 60px;
+    background-color:#36304a;
+    align-items: center;
+    padding: 10px 30px 10px 30px;
+color: #f6f6ff;
+} */
+
+.box-wrapper{
+    display: flex;
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+    padding: 28px;
+    gap: 77px;
+    /* margin-left: 350px; */
+    margin-right: 350px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.count-key{
+    box-sizing: 30px;
+    border: 1px solid black;
+    color: red;
+    padding: 3px;
+}
+
+.box{
+    display: flex;
+     display: flex;
+    box-shadow: rgb(14 30 37 / 12%) 0px 2px 4px 0px, rgb(14 30 37 / 32%) 0px 2px 16px 0px;
+    padding: 28px;
+    gap: 47px;
+    /* margin-left: 350px; */
+    margin-right: 350px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
